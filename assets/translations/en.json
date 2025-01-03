@@ -39,7 +39,7 @@
     "resumes": [
         {
             "languageCode": "en",
-            "url": "https://drive.google.com/file/d/1pVg6EjpZvixMcOkgRMGrhrkmAeIaSn3t/view?usp=sharing"
+            "url": "https://drive.google.com/file/d/1kX_hsaDPmjvAW1cSkiCkou8K5zSz3Dmr/view?usp=sharing"
         }
        
     ],
@@ -51,7 +51,9 @@
             "description": "Leading the implementation of Flutter technology at Axolon, driving the integration of cutting-edge cross-platform mobile app development solutions to elevate organizational efficiency and user satisfaction.\nPerforming development and deployment of numerous Flutter applications on the App Store and Google Play Store, effectively expanding reach to a diverse user demographic, and fostering increased user engagement.\nLeading the development of a Windows application utilizing the Flutter framework, seamlessly integrating it with a cloud-based Point of Sale (POS) system.\nPlaying a key role in developing and implementing resilient database structures and scalable architectures, guaranteeing superior performance and reliability across Axolon's mobile application ecosystem.\nWorking collaboratively with cross-functional teams to gather requirements, define project scopes, and deliver top-tier mobile applications aligning with business goals and user requirements.",
             "isPresent": false,
             "startYear": 2022,
+            "startMonth": 6,
             "endYear": 2024,
+            "endMonth": 7,
             "technologies": [
                 {
                     "name": "Flutter",
@@ -305,90 +307,8 @@
                     }
                 }
             ]
-        },
-        {
-            "name": "GSB-Frais",
-            "description": "The GSB-Frais project is a web-based expense management application developed for medical representatives and accountants at the fictional company GSB. It facilitates the entry and review of monthly reports by medical representatives, while enabling accountants to process them.",
-            "url": "https://github.com/AladdineDev/GSB-Frais#readme",
-            "icon": {
-                "codePoint": "0xefb7",
-                "fontFamily": "FontAwesome",
-                "color": "0xffffffff"
-            },
-            "screenshotPath": "assets/images/gsb-frais.png",
-            "technologies": [
-                {
-                    "name": "Symfony",
-                    "icon": {
-                        "codePoint": "0xf0ab",
-                        "fontFamily": "FontAwesome"
-                    }
-                },
-                {
-                    "name": "PHP",
-                    "icon": {
-                        "codePoint": "0xef29",
-                        "fontFamily": "BoxIcons"
-                    }
-                },
-                {
-                    "name": "Bootstrap",
-                    "icon": {
-                        "assetName": "assets/icons/other/bootstrap.svg"
-                    }
-                },
-                {
-                    "name": "MariaDB",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/mariadb.svg"
-                    }
-                },
-                {
-                    "name": "Docker",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/docker.svg"
-                    }
-                }
-            ]
-        },
-        {
-            "name": "GSB-RV-Visiteur-Serveur",
-            "description": "The GSB project's REST API serves as an interface for various project clients, including Android, Desktop, and Web applications.",
-            "url": "https://github.com/AladdineDev/GSB-RV-Visiteur-Serveur#readme",
-            "icon": {
-                "codePoint": "0xefb7",
-                "fontFamily": "FontAwesome",
-                "color": "0xffffffff"
-            },
-            "screenshotPath": "assets/images/gsb-rv-visiteur-serveur.png",
-            "technologies": [
-                {
-                    "name": "Flask",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/flask.svg",
-                        "color": "0xffffffff"
-                    }
-                },
-                {
-                    "name": "Python",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/python.svg"
-                    }
-                },
-                {
-                    "name": "MariaDB",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/mariadb.svg"
-                    }
-                },
-                {
-                    "name": "Docker",
-                    "icon": {
-                        "assetName": "assets/icons/software-development/docker.svg"
-                    }
-                }
-            ]
         }
+        
     ],
     "languages": [
         {
